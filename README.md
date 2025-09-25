@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello there, I'm Nicolás ✌🏻
+📧 [Email](mailto:nicolasg.ngl@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/nicolas-garcia-lopez-frontend) 
+* I'm a web developer based in Bogotá, Colombia 🌎
+* Here's my [Portfolio](https://nicolas-portfolio-peach.vercel.app/) 
+**Tech Stack :** HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React, Astro, Next.
 
-<!--
-**XnicolasG/XnicolasG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tech Tools:** SQL Server, Supabase.
 
-Here are some ideas to get you started:
+**Currently studying :** Node.js, Express, MongoDB, Azure 🔬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Xnicolasg&theme=react)](https://git.io/streak-stats)
+
+![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=xnicolasg&show_icons=true&theme=radical)
